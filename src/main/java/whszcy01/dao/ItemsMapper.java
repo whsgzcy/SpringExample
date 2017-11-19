@@ -2,6 +2,7 @@ package whszcy01.dao;
 
 import whszcy01.model.Items;
 
+// test
 public interface ItemsMapper {
     int deleteByPrimaryKey(Integer id);
 
